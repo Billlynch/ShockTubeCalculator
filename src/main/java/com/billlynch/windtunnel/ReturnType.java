@@ -16,6 +16,8 @@ public class ReturnType {
     private double machNumber2;
     private double airDensity2;
 
+    private double ms;
+
     private double pressure3;
     private double temp3;
     private double fluidVelocity3;
@@ -25,7 +27,8 @@ public class ReturnType {
 
     @Override
     public String toString() {
-        return "Zone 2: " + System.lineSeparator() +
+        return  "Ms: " + ms + System.lineSeparator() +
+                "Zone 2: " + System.lineSeparator() +
                 "{" + System.lineSeparator() +
                 " pressure=" + pressure2 + System.lineSeparator() +
                 " temp=" + temp2 + System.lineSeparator() +

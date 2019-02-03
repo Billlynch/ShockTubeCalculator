@@ -1,4 +1,4 @@
-package com.billlynch.windtunnel;
+package com.billlynch.ShockTubeCalculator;
 
 
 import lombok.*;
@@ -27,7 +27,7 @@ public class ReturnType {
 
     @Override
     public String toString() {
-        return  "Ms: " + ms + System.lineSeparator() +
+        return "Ms: " + ms + System.lineSeparator() +
                 "Zone 2: " + System.lineSeparator() +
                 "{" + System.lineSeparator() +
                 " pressure=" + pressure2 + System.lineSeparator() +

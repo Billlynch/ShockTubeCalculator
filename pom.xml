@@ -6,8 +6,8 @@
 
     <packaging>jar</packaging>
 
-    <groupId>com.billlynch.windtunnel</groupId>
-    <artifactId>com.billlynch.windtunnel</artifactId>
+    <groupId>com.billlynch.ShockTubeCalculator</groupId>
+    <artifactId>com.billlynch.ShockTubeCalculator</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

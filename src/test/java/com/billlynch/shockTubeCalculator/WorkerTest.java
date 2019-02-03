@@ -1,4 +1,4 @@
-package com.billlynch.ShockTubeCalculator;
+package com.billlynch.shockTubeCalculator;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -6,8 +6,8 @@
 
     <packaging>jar</packaging>
 
-    <groupId>com.billlynch.ShockTubeCalculator</groupId>
-    <artifactId>com.billlynch.ShockTubeCalculator</artifactId>
+    <groupId>com.billlynch.shockTubeCalculator</groupId>
+    <artifactId>com.billlynch.shockTubeCalculator</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -52,11 +52,11 @@
                 <version>2.3</version>
                 <configuration>
                     <descriptorRefs>
-                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                        <descriptorRef>all</descriptorRef>
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.billlynch.windtunnel.Main</mainClass>
+                            <mainClass>com.billlynch.shockTubeCalculator.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
